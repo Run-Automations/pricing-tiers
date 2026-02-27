@@ -2,7 +2,7 @@
 ## Service Delivery & Pricing Guide
 
 > Three flexible service models tailored for the Ugandan market.
-> **runautomaions.com | runautomaions.org** — 2026
+> **runautomations | runautomations.org** — 2026
 
 ---
 
@@ -149,7 +149,7 @@ Contact us to discuss which option works best for your business and to receive a
 
 | | |
 |---|---|
-| **Website** | runautomaions.com \| runautomaions.org |
+| **Website** | runautomations \| runautomations.org |
 | **Payment** | MTN MoMo, Airtel Money, Bank Transfer |
 
 ---
